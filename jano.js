@@ -29,4 +29,4 @@ setInterval(async function() {
 
 /////////////////////////////   live > link quran da bne
 
-jano.login("")
+jano.login("MTA3OTc0MTgwNzE5MTEzMDE1Mg.Gy-jlS.tOau_GGZSmJanM76VKMFBgHGGFfds9JT3DlOr8")
